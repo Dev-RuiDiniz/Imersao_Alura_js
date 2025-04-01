@@ -1,0 +1,20 @@
+{
+  "name": "imersao_alura_js",
+  "version": "1.0.0",
+  "description": "A Pen created on CodePen.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-RuiDiniz/Imersao_Alura_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-RuiDiniz/Imersao_Alura_js/issues"
+  },
+  "homepage": "https://github.com/Dev-RuiDiniz/Imersao_Alura_js#readme"
+}
